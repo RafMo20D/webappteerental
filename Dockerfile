@@ -1,2 +1,2 @@
 FROM nginx:1.18-alpine
-COPY /Webappteerental /usr/share/nginx/html
+COPY /webappteerental /usr/share/nginx/html

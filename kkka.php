@@ -6,7 +6,7 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
 	$phone = $_POST['phone'];
 	$subject = $_POST['subject'];
 	$content = $_POST['content'];
-    $to = "mohammed@teerental.com"; //// <- Enter your Email
+    $to = "admin@admin.com"; //// <- Enter your Email
     $subject = "New Contecter";
     $body ='<html>
                 <body>

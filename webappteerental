@@ -1,0 +1,6 @@
+version: "3"
+services:
+  webappteerental:
+    build: ./webappteerental
+    image: ghcr.io/rafmo20d/webappteerental:sha256-f0a9af88c56ea5da86954aebe67f1fbc14f0cf278f0f98e80cd0840225a03f62.sig
+  
